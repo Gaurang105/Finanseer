@@ -7,7 +7,7 @@ export const kpis = [
       monthlyData: [
         {
           month: "january",
-          revenue: "$15980.64",
+          revenue: "$15989.64",
           expenses: "$14231.73",
           operationalExpenses: "$10340.03",
           nonOperationalExpenses: "$4891.70",
