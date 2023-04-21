@@ -198,10 +198,9 @@ const Row3 = () => {
           ></Box>
         </Box>
         <Typography margin="0 1rem" variant="h6">
-          Orci aliquam enim vel diam. Venenatis euismod id donec mus lorem etiam
-          ullamcorper odio sed. Ipsum non sed gravida etiam urna egestas
-          molestie volutpat et. Malesuada quis pretium aliquet lacinia ornare
-          sed. In volutpat nullam at est id cum pulvinar nunc.
+        Overall, this data provides an overview of the e-commerce platform's products, 
+        customers, and orders, which can be used to analyze customer behavior, identify
+        popular products, and make informed business decisions.
         </Typography>
       </DashboardBox>
     </>
